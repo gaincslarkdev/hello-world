@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Services</title>
 </head>
 <body>
   <h1>Main Heading</h1>
